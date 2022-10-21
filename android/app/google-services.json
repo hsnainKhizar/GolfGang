@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "817342879415",
+    "firebase_url": "https://golfgang-4173e-default-rtdb.firebaseio.com",
+    "project_id": "golfgang-4173e",
+    "storage_bucket": "golfgang-4173e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817342879415:android:01d1c4a1b074f944629f32",
+        "android_client_info": {
+          "package_name": "com.golfgang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "817342879415-tkrq3vuosb4rrtcrqj1mnucov2bqgupt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAE57U6fnGc8M2eVtTHPPush6n9lPecak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "817342879415-tkrq3vuosb4rrtcrqj1mnucov2bqgupt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "817342879415-v7erhtd4m77b63n6tgpqvu26a7i3epfd.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "golfgang"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
